@@ -1,0 +1,25 @@
+{
+  "name": "@gxvigo/how-to-npm-project",
+  "version": "1.0.0",
+  "description": "First npm project, following how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxvigo/how-to-npm-project.git"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "firt",
+    "project"
+  ],
+  "author": "giovanni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gxvigo/how-to-npm-project/issues"
+  },
+  "homepage": "https://github.com/gxvigo/how-to-npm-project#readme"
+}
